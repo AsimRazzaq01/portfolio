@@ -12,10 +12,10 @@
 
 ## 🚀 Projects
 
-### 🥗 [Food Recipe Platform]([https://github.com/yourusername/elevator-simulator](https://github.com/yingxingxin/Food-Recipe-Platform))
+### 🥗 [Food Recipe Platform](https://github.com/yingxingxin/Food-Recipe-Platform)
 A JavaFX-based platform that fetches food recipes from an API, lets users connect, share and save recipes, and auto-generates ingredient lists stored using Firebase.
 
-### ⚡ [Electronic Circuit Simulator]([https://github.com/yourusername/flavorverse](https://github.com/AsimRazzaq01/ElectronicCircuitSimulator))
+### ⚡ [Electronic Circuit Simulator](https://github.com/AsimRazzaq01/ElectronicCircuitSimulator)
 An interactive JavaFX simulator that allows users to design circuits with drag-and-drop components, save multiple projects, and manage data via Microsoft Azure.
 
 ### 🛗 [Elevator Simulator](https://github.com/yourusername/elevator-simulator)
@@ -25,7 +25,7 @@ A JavaFX simulator that mimics realistic elevator behavior across multiple floor
 
 ## 🛠️ What I Can Do
 
-- **Full Stack Web Development**: JavaScript, React, Node.js, Express, SQL
+- **Full Stack Web Development**: JavaScript, React, Node.js, Express
 - **Mobile App Development**: Android with Kotlin & Jetpack Compose
 - **Desktop Applications**: Java with JavaFX, Python
 - **Tutoring**: Programming fundamentals, Java, and college-level math
