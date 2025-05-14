@@ -35,8 +35,9 @@ A JavaFX simulator that mimics realistic elevator behavior across multiple floor
 
 ## 📫 Let's Connect
 
-- 📧 Email:  razza6@farmingdale.edu
-- 💼 LinkedIn: www.linkedin.com/in/asim-razzaq1 
-- 🌐 Portfolio: https://asimrazzaq01.github.io/portfolio/
+[📧 Email](mailto:razza6@farmingdale.edu)  
+[💼 LinkedIn](https://www.linkedin.com/in/asim-razzaq1)  
+[🌐 Portfolio](https://asimrazzaq01.github.io/portfolio/)
+
 
 Thanks for stopping by! 😊
